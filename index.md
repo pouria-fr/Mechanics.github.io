@@ -1,3 +1,3 @@
 ## Welcome to GitHub Pages
 
-This page is dependent and any organization, university and etc dont spport it.
+This is an independent page and any organization, university and etc don't support it.
